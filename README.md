@@ -1,6 +1,8 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEV68DDcDD0Aw/profile-displaybackgroundimage-shrink_350_1400/0/1670232483346?e=1682553600&v=beta&t=MfYWqYt4iOW7uQ6CLIB1klxD0ZHC7XtbKPExIEnnVOU)
+
 <h1 align="center">Hi 👋, I'm Oded Portnoy</h1>
 <h3 align="center">A Full-Stack developer</h3>
+
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEV68DDcDD0Aw/profile-displaybackgroundimage-shrink_350_1400/0/1670232483346?e=1682553600&v=beta&t=MfYWqYt4iOW7uQ6CLIB1klxD0ZHC7XtbKPExIEnnVOU)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odedpo10&label=Profile%20views&color=0e75b6&style=flat" alt="odedpo10" /> </p>
 
